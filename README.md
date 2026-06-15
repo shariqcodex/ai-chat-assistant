@@ -16,4 +16,4 @@ A conversational AI chatbot built with Python and Flask, powered by Llama 3.3 70
 2. Add your Groq API key to a `.env` file
 3. Run `pip install flask groq python-dotenv`
 4. Run `python app.py`
-5. Open `http://127.0.0.1:5000`
+5. Open `http://127.0.0.1:5000`.
