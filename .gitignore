@@ -1,3 +1,4 @@
 .env
 history.json
 __pycache__/
+users.json
